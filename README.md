@@ -4,7 +4,7 @@
 | 地址       | 类型  | 是否需要翻墙 |  
 | :---       |     :---:      |          ---: |
 | [简影搜索](https://www.jysous.com)    | 最新地址 | 不需要 |  
-| [简影小站](https://hugovercel.now.sh)    | 最新地址 | 不需要 |  
+| [简影小站](https://jysous.now.sh)    | 最新地址 | 不需要 |  
 | [极简搜索](https://jjsous.com)    | 最新地址 | 不需要 |  
 
 
