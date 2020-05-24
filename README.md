@@ -5,7 +5,8 @@
 | :---       |     :---:      |          ---: |
 | [简影搜索](https://www.jysous.com)    | 最新地址 | 不需要 |  
 | [简影小站](https://jysous.now.sh)    | 最新地址 | 不需要 |  
-| [极简搜索](https://jjsous.com)    | 最新地址 | 不需要 |  
+| [极简搜索1](https://jjsous.now.sh)    | 最新地址 | 不需要 |  
+| [极简搜索2](https://jjsous.com)    | 最新地址 | 不需要 |  
 
 
 
